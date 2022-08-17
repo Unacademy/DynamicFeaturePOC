@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicFeaturePoc</string>
+    <string name="title_dynamicfeature">Dynamic Feature</string>
+    <string name="title_dynamicfeaturetwo">Dynamic Featue Two</string>
+</resources>
